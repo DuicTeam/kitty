@@ -18,4 +18,3 @@ typedef struct CLIOptions {
 
 void
 single_instance_main(int argc, char *argv[], const CLIOptions *opts);
-aaa
